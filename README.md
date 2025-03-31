@@ -3,14 +3,17 @@ This repository contains my learning journey with LangChain, where I explore var
 
 * <b>LLMs:</b> Working with large language models for AI applications.
 
-* Prompt Templates: Structuring prompts to optimize LLM performance.
+* <b>Prompt Templates:</b> Structuring prompts to optimize LLM performance.
 
-* Chains: Creating multi-step workflows to enhance automation.
+* <b>Chains:</b> Creating multi-step workflows to enhance automation.
 
-* Agents & Tools: Implementing dynamic decision-making with external tools.
+* <b>Agents & Tools: </b> Implementing dynamic decision-making with external tools.
 
-* Memory: Adding context retention to conversations and workflows.
+* <b>Memory:</b> Adding context retention to conversations and workflows.
 
-* Document Loaders: Efficiently loading and processing various document formats.
+* <b>Document Loaders:</b> Efficiently loading and processing various document formats.
 
-* Indexing: Organizing and retrieving information for scalable AI applications.
+* <b>Indexing:</b> Organizing and retrieving information for scalable AI applications.
+
+### Referece
+https://python.langchain.com/docs/tutorials/

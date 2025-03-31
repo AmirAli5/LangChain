@@ -1,8 +1,7 @@
 ![Cover](cover.png)
 This repository contains my learning journey with LangChain, where I explore various components essential for building AI-driven applications. The covered topics include:
 
-* **LLMs: **
-* Working with large language models for AI applications.
+* LLMs: Working with large language models for AI applications.
 
 * Prompt Templates: Structuring prompts to optimize LLM performance.
 
